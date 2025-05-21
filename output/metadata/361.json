@@ -1,0 +1,35 @@
+{
+    "name": "NFT #361",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/361.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Gray"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cream"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=X Eyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Bubblegum"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Bone Necklace"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bunny Ears"
+        }
+    ]
+}

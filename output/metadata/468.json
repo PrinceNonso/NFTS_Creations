@@ -1,0 +1,35 @@
+{
+    "name": "NFT #468",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/468.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Aquamarine"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=DMT"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Blindfold"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Bone Tee"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Baby's Bonnet"
+        }
+    ]
+}

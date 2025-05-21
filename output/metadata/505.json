@@ -1,0 +1,35 @@
+{
+    "name": "NFT #505",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/505.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Purple"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Robot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Robot"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Bone Necklace"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bayc Flipped Brim"
+        }
+    ]
+}

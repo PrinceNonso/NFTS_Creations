@@ -1,0 +1,35 @@
+{
+    "name": "NFT #37",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/37.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Dark Brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Blindfold"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Kazoo"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Bone Tee"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=S&m Hat"
+        }
+    ]
+}

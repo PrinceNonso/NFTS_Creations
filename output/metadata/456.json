@@ -1,0 +1,35 @@
+{
+    "name": "NFT #456",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/456.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Purple"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Golden Brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Eyepatch"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Phoneme Oh"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Leather Jacket"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bayc Flipped Brim"
+        }
+    ]
+}

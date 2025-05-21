@@ -1,0 +1,35 @@
+{
+    "name": "NFT #400",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/400.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=New Punk Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Robot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=X Eyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Cigarette"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Prison Jumpsuit"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Cowboy Hat"
+        }
+    ]
+}

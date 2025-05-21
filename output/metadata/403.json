@@ -1,0 +1,35 @@
+{
+    "name": "NFT #403",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/403.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Death Bot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Bloodshot"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Discomfort"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Sleeveless Logo T"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Diamond Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Fisherman's Hat"
+        }
+    ]
+}

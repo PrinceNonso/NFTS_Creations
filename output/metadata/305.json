@@ -1,0 +1,35 @@
+{
+    "name": "NFT #305",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/305.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Army Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Red"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Closed"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Pizza"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Vietnam Jacket"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bayc Hat Black"
+        }
+    ]
+}

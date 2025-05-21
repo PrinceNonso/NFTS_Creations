@@ -1,0 +1,35 @@
+{
+    "name": "NFT #125",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/125.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cheetah"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Laser Eyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Kazoo"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Biker Jacket"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bayc Hat Black"
+        }
+    ]
+}

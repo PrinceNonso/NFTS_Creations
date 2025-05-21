@@ -1,0 +1,35 @@
+{
+    "name": "NFT #272",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/272.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Sleepy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Cigar"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Tank top"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Diamond Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Fez"
+        }
+    ]
+}

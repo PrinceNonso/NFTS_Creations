@@ -1,0 +1,35 @@
+{
+    "name": "NFT #165",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/165.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cream"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Sleepy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Cigarette"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Black Suit"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Trippy Captain's Hat"
+        }
+    ]
+}

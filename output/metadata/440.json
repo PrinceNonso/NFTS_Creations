@@ -1,0 +1,35 @@
+{
+    "name": "NFT #440",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/440.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Army Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Pink"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Hypnotized"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Grin"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Sleeveless T"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Beanie"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "NFT #53",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/53.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Red"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Wide Eyed"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Phoneme Vuh"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Puffy Vest"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Cowboy Hat"
+        }
+    ]
+}

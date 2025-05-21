@@ -1,0 +1,35 @@
+{
+    "name": "NFT #164",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/164.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Aquamarine"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Trippy"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Wide Eyed"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Cigar"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Cowboy Shirt"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Prussian Helmet"
+        }
+    ]
+}

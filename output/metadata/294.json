@@ -1,0 +1,35 @@
+{
+    "name": "NFT #294",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/294.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Gray"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Tan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=X Eyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Small Grin"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Hawaiian"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bandana Blue"
+        }
+    ]
+}

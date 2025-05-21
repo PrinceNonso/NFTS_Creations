@@ -1,0 +1,35 @@
+{
+    "name": "NFT #384",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/384.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=DMT"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Coins"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Cigarette"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Puffy Vest"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Sushi Chef Headband"
+        }
+    ]
+}

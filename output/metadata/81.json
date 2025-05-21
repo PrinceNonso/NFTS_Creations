@@ -1,0 +1,35 @@
+{
+    "name": "NFT #81",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/81.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Tan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Coins"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Party Horn"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Leather Punk Jacket"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Fez"
+        }
+    ]
+}

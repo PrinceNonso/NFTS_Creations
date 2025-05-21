@@ -1,0 +1,35 @@
+{
+    "name": "NFT #430",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/430.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Gray"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=DMT"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Blindfold"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Rage"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Lumberjacket Shirt"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Trippy Captain's Hat"
+        }
+    ]
+}

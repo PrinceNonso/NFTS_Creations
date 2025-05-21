@@ -1,0 +1,35 @@
+{
+    "name": "NFT #58",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/58.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Death Bot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Crazy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Party Horn"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Prison Jumpsuit"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Horns"
+        }
+    ]
+}

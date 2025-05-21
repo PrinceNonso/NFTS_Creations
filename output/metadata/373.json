@@ -1,0 +1,35 @@
+{
+    "name": "NFT #373",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/373.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Gray"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Death Bot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Holographic"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Pizza"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Lab Coat"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Faux Hawk"
+        }
+    ]
+}

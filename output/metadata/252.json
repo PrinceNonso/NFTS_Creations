@@ -1,0 +1,35 @@
+{
+    "name": "NFT #252",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/252.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=New Punk Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Death Bot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Holographic"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Grin Diamond Grill"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Hawaiian"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Seaman's Hat"
+        }
+    ]
+}

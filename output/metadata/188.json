@@ -1,0 +1,35 @@
+{
+    "name": "NFT #188",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/188.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cream"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Laser Eyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Small Grin"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Blue Dress"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Party Hat 2"
+        }
+    ]
+}

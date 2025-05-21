@@ -1,0 +1,35 @@
+{
+    "name": "NFT #453",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/453.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Orange"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Sunglasses"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Phoneme ooo"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Kings Robe"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=None"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Spinner Hat"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "NFT #486",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/486.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Army Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cheetah"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Eyepatch"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Dagger"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Guayabera"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bayc Hat Black"
+        }
+    ]
+}

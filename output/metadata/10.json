@@ -1,0 +1,35 @@
+{
+    "name": "NFT #10",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/10.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Aquamarine"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cream"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Sunglasses"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Bubblegum"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Space suit"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Laurel Wreath"
+        }
+    ]
+}

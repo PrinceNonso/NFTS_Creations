@@ -1,0 +1,35 @@
+{
+    "name": "NFT #287",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/287.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Orange"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=DMT"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Crazy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Pipe"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Kings Robe"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=S&m Hat"
+        }
+    ]
+}

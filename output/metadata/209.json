@@ -1,0 +1,35 @@
+{
+    "name": "NFT #209",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/209.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Gray"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Dark Brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Robot"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Grin Multicolored"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Black Holes T"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bayc Hat Black"
+        }
+    ]
+}

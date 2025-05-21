@@ -1,0 +1,35 @@
+{
+    "name": "NFT #410",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/410.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Purple"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Closed"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Dagger"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Bayc T Black"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Spinner Hat"
+        }
+    ]
+}

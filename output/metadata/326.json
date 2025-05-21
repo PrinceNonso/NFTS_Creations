@@ -1,0 +1,35 @@
+{
+    "name": "NFT #326",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/326.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Army Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cream"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Blue Beams"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Small Grin"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Sleeveless Logo T"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Short Mohawk"
+        }
+    ]
+}

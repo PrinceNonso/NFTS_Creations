@@ -1,0 +1,35 @@
+{
+    "name": "NFT #74",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/74.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Blue"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Blue Beams"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Small Grin"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Rainbow Suspenders"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Bowler"
+        }
+    ]
+}

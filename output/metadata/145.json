@@ -1,0 +1,35 @@
+{
+    "name": "NFT #145",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/145.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Zombie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Blindfold"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Party Horn"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Space suit"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Commie Hat"
+        }
+    ]
+}

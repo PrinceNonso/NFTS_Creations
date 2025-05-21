@@ -1,0 +1,35 @@
+{
+    "name": "NFT #269",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/269.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Aquamarine"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Tan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Holographic"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Pizza"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Stunt Jacket"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Irish Boho"
+        }
+    ]
+}

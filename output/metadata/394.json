@@ -1,0 +1,35 @@
+{
+    "name": "NFT #394",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/394.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Purple"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Zombie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Zombie"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Pipe"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Vietnam Jacket"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Ww2 Pilot Helm"
+        }
+    ]
+}

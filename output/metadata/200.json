@@ -1,0 +1,35 @@
+{
+    "name": "NFT #200",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/200.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=White"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Sleepy"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Grin"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Puffy Vest"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Diamond Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Laurel Wreath"
+        }
+    ]
+}

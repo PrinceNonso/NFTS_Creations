@@ -1,0 +1,35 @@
+{
+    "name": "NFT #17",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/17.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Pink"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Hypnotized"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven Kazoo"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Tank top"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Gold Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=S&m Hat"
+        }
+    ]
+}

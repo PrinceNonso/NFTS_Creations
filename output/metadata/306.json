@@ -1,0 +1,35 @@
+{
+    "name": "NFT #306",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/306.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Army Green"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Robot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Bored"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Bored Unshaven"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Hawaiian"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Diamond Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Police Motorcycle Helmet"
+        }
+    ]
+}

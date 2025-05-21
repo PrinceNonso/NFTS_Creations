@@ -1,0 +1,35 @@
+{
+    "name": "NFT #160",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/160.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=New Punk Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Blue"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=3D"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Rage"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Puffy Vest"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Hoop"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Horns"
+        }
+    ]
+}

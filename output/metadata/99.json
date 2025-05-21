@@ -1,0 +1,35 @@
+{
+    "name": "NFT #99",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/99.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Blue"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Red"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Angry"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Jovial"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Striped Tee"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Fisherman's Hat"
+        }
+    ]
+}

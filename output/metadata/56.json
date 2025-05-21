@@ -1,0 +1,35 @@
+{
+    "name": "NFT #56",
+    "description": "Unique auto-generated NFT",
+    "image": "ipfs://bafybeie4quiuijoxfxrunqy2ltamw5bhoynjuolnq25fcg6scdflfx5soi/56.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Background=Yellow"
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Fur=Cheetah"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Property 1=Sad"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "Property 1=Tongue Out"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Property 1=Tie Dye"
+        },
+        {
+            "trait_type": "earring",
+            "value": "Property 1=Silver Stud"
+        },
+        {
+            "trait_type": "hat",
+            "value": "Property 1=Fisherman's Hat"
+        }
+    ]
+}
